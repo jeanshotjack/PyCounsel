@@ -1,18 +1,4 @@
-'''
-Jean (Diana) Shalenkova
-Class: CS 521 - Spring 2
-Date: 29 April 2021
-Term Project Code
-Description of Problem:
-    This is PyCounsel, my term project for the course. It is a basic mental
-    health counseling program. It takes a user's name and complaint, and then
-    it searched through the complaint and checks to see if any of them are in
-    the three files containing common symptoms of depression, anxiety, and
-    substance abuse. It then asks if the user wants advice and returns the
-    advice string.
 
-    INSTRUCTIONS: Just run the project in your IDE!
-'''
 
 # Init empty lists into which the files will read their contents
 d_list = []
