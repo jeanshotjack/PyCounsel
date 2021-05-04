@@ -13,3 +13,6 @@ PyCounsel is a basic mental health counseling program. Created for CS521 at Bost
 
 ## Possible Outcomes
 ![Diagram](diagram.png)
+
+## How to Run
+This is a command line program! Simply clone this repo and run the main file on command line or in your IDE.
